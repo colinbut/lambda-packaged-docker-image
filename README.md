@@ -1,0 +1,1 @@
+# lambda-packaged-docker-image
